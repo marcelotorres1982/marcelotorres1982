@@ -8,7 +8,9 @@
 
 <div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)(https://github-readme-stats.vercel.app/api?username=marcelotorres1982)](https://github.com/anuraghazra/github-readme-stats) />
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
