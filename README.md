@@ -4,7 +4,6 @@
   com HTML, CSS, Javascript, além de estar aprendendo banco de dados e Python
 - 😎 Futuro FullStack Developer
 - 📫 Contate-me no e-mail: marcelotorres1982@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 
