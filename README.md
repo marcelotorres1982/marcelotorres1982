@@ -7,12 +7,13 @@
 
 
 
-<div>
+<div style="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&theme=tokyonight&layout=compact"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
+##
 
 <div>
 
@@ -28,12 +29,14 @@
           
 </div>         
 
-##
+
+ ##
 
 <div>
 
 <a href="mailto:marcelotorres1982@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/marcelo-t-554b8045"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://www.instagram.com/marcelo_torres"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  ![](https://komarev.com/ghpvc/?username=marcelotorres1982&style=flat-for-the-badge)
 
 </div>
