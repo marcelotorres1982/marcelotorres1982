@@ -1,8 +1,10 @@
 ### Olá, seja bem vindo(a)
 
-- 🌱 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e estou me aprofundando no desenvolvimento Front End 
-  com HTML, CSS, Javascript.
-- Aprendendo também Python, Java e C
+- 🌴 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas 
+  e estou me aprofundando no desenvolvimento de aplicações 
+  em Python. 
+- Possuo conhecimento também Javascript, Java, C, PHP,além dos frameworks
+  ReactNative, AngularJS, BootStrap e CSS
 - 😎 Futuro FullStack Developer
 - 📫 Contate-me no e-mail: marcelotorres1982@gmail.com
 
