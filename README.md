@@ -1,8 +1,7 @@
 ### Olá, seja bem vindo(a)
 
-- 🌴 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas 
-  e estou me aprofundando no desenvolvimento de aplicações 
-  em Python. 
+- 🌴 Analista de Sistemas, com foco em desenvolvimento de aplicações 
+  em Python, ML e IA. 
 - Possuo conhecimento também Javascript, Java, C, PHP,além dos frameworks
   ReactNative, AngularJS, BootStrap e CSS
 - 😎 Futuro FullStack Developer
