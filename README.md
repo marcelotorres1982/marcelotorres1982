@@ -3,7 +3,7 @@
 ## About Me #OpenToWork
 
 - 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Graduated in Systems Analysis and Development.
+- 🎓 Bachelor's degree in Systems Analysis and Development.
 - 💼 Currently studying to transition into a developer role.
 - 🌱 Learning more about AI, Machine Learning, Deep Learning.
 
