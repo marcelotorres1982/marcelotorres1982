@@ -1,45 +1,40 @@
-### Olá, seja bem vindo(a)
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-- 🌴 Analista de Sistemas, com foco em desenvolvimento de aplicações 
-  em Python, ML e IA. 
-- Possuo conhecimento também Javascript, Java, C, PHP,além dos frameworks
-  ReactNative, AngularJS, BootStrap e CSS
-- 😎 Futuro FullStack Developer
-- 📫 Contate-me no e-mail: marcelotorres1982@gmail.com
+## About Me
 
-<div style="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&theme=tokyonight&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Graduated in Systems Analysis and Development.
+- 💼 Currently studying to transition into a developer role.
+- 🌱 Learning more about AI, Machine Learning, Deep Learning.
 
+## My Skills
 
+**Applications & Data**
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-##
+**Development Tools**
 
-<div>
-
-<img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Marcelo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Marcelo-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Marcelo-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="Marcelo-JAVA" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Marcelo-GO" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" />
-
-          
-          
-          
-</div>         
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
- ##
+<br/>
 
-<div>
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
-<a href="mailto:marcelotorres1982@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.linkedin.com/in/marcelo-t-554b8045"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.instagram.com/marcelo_torres"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  ![](https://komarev.com/ghpvc/?username=marcelotorres1982&style=flat-for-the-badge)
+## Where to Find Me
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-t-554b8045/)]((https://www.linkedin.com/in/marcelo-t-554b8045/))
+[![Gmail Badge](https://img.shields.io/badge/-youremail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelotorres1982@gmail.com)](mailto:marcelotorres1982@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/marcelotorres1982)
