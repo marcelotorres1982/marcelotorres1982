@@ -1,14 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=marcelotorres1982&color=006bed)
 
 ## About Me #OpenToWork
-
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Bachelor's degree in Systems Analysis and Development.
 - 💼 Currently studying to transition into a developer role.
 - 🌱 Learning more about AI, Machine Learning, Deep Learning.
 
 ## My Skills
-
 **Applications & Data**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
@@ -30,18 +28,43 @@
 ## 📊 Language Usage & GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&theme=dracula&show_icons=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=e6edf3" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&theme=dracula&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=e6edf3" height="180em" />
 </div>
 
-<br/>
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcelotorres1982&theme=dark&background=0d1117&border=30363d&stroke=f85149&ring=f85149&fire=f85149&currStreakLabel=e6edf3)
 
-<a href="https://github.com/marcelotorres1982" title="Marcelo's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&theme=dracula&show_icons=true" />
-</a>
+</div>
+
+### 🚀 Most Used Languages in My Projects
+
+<div align="center">
+
+| Language | Usage | Projects |
+|----------|-------|----------|
+| 🐍 **Python** | **45%** | BarberVibe, Consulta CNPJ, ML Projects |
+| ⚡ **JavaScript** | **25%** | Portfolio, Interactive Features |
+| 🎨 **HTML5** | **15%** | Web Structure, Portfolio |
+| 💎 **CSS3** | **10%** | Styling, Animations, Responsive Design |
+| 🗃️ **SQL** | **5%** | Database Management, Queries |
+
+</div>
 
 ## Where to Find Me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://marcelotorres1982.github.io)](https://marcelotorres1982.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-t-554b8045/)](https://www.linkedin.com/in/marcelo-t-554b8045/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelotorres1982@gmail.com)](mailto:marcelotorres1982@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/marcelotorres1982?label=follow&style=social)](https://github.com/marcelotorres1982)
+
+---
+
+<div align="center">
+  
+💡 **"Code is poetry written in logic"**
+
+⭐ **If you found my projects helpful, consider giving them a star!**
+
+</div>
