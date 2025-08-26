@@ -27,6 +27,12 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+## 📊 Language Usage & GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&theme=dracula&show_icons=true" height="180em" />
+</div>
 
 <br/>
 
