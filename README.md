@@ -55,7 +55,7 @@
 ## Where to Find Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://marcelotorres1982.github.io)](https://marcelotorres1982.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-t-554b8045/)](https://www.linkedin.com/in/marcelo-t-554b8045/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-t-alves/)](https://www.linkedin.com/in/marcelo-t-alves/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelotorres1982@gmail.com)](mailto:marcelotorres1982@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/marcelotorres1982?label=follow&style=social)](https://github.com/marcelotorres1982)
 
