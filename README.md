@@ -28,15 +28,20 @@
 ## 📊 Language Usage & GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-jodie.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats-jodie.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"
+    height="180em"
+  />
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marcelotorres1982&theme=dark&hide_border=true" />
-
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=marcelotorres1982&theme=dark&hide_border=true"
+  />
 </div>
 
 ### 🚀 Most Used Languages in My Projects
