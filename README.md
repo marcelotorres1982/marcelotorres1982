@@ -26,7 +26,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## 📊 Language Usage & GitHub Stats
-
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117"
@@ -45,7 +44,6 @@
 </div>
 
 ### 🚀 Most Used Languages in My Projects
-
 <div align="center">
 
 | Language | Usage | Projects |
