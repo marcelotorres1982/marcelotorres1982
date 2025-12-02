@@ -28,13 +28,14 @@
 ## 📊 Language Usage & GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=e6edf3" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&theme=dracula&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=e6edf3" height="180em" />
+  <img src="https://github-readme-stats-jodie.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-jodie.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula" />
+
 </div>
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcelotorres1982&theme=dark&background=0d1117&border=30363d&stroke=f85149&ring=f85149&fire=f85149&currStreakLabel=e6edf3)
+
+<img src="https://streak-stats.demolab.com?user=marcelotorres1982&theme=dark&hide_border=true" />
 
 </div>
 
