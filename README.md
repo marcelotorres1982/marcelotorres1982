@@ -26,21 +26,17 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## 📊 Language Usage & GitHub Stats
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marcelotorres1982&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117"
-    height="180em"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotorres1982&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"
-    height="180em"
-  />
-</div>
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=marcelotorres1982&theme=dark&hide_border=true"
-  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelotorres1982&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelotorres1982&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelotorres1982&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelotorres1982&theme=github_dark&utcOffset=3" />
+
 </div>
 
 ### 🚀 Most Used Languages in My Projects
